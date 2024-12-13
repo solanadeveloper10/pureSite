@@ -7,11 +7,11 @@ body {
   align-items: center;
   height: 100vh; /* Забезпечує висоту вікна браузера */
   background-color: #f5f5f5; /* Базовий колір фону */
-  background-image: url(assets/bumas_poster_1500x500_.png); /* Додано лапки для шляху до зображення */
+  background-image: url(assets/6.png); /* Додано лапки для шляху до зображення */
   background-size: cover; /* Картинка покриває весь екран */
   background-position: center; /* Центрування картинки */
   background-repeat: no-repeat; /* Уникнення повторення картинки */
-  height: 100vh; /* Висота вікна */
+  height: 150vh; /* Висота вікна */
   width: 150vw; /* Ширина вікна */
 }
 
