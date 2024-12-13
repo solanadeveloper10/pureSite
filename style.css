@@ -5,12 +5,12 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
-  background-color: #f5f5f5;
-  background-image: url(assets/bumas_poster_1500x500_.png);
-  background-size: cover; /* Зробити картинку такою, щоб вона покривала весь екран */
+  height: 100vh; /* Забезпечує висоту вікна браузера */
+  background-color: #f5f5f5; /* Базовий колір фону */
+  background-image: url(assets/bumas_poster_1500x500_.png); /* Додано лапки для шляху до зображення */
+  background-size: cover; /* Картинка покриває весь екран */
   background-position: center; /* Центрування картинки */
-  background-repeat: no-repeat; /* Уникнення повторів картинки */
+  background-repeat: no-repeat; /* Уникнення повторення картинки */
 }
 
 h1 {
