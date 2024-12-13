@@ -11,8 +11,8 @@ body {
   background-size: cover; /* Картинка покриває весь екран */
   background-position: center; /* Центрування картинки */
   background-repeat: no-repeat; /* Уникнення повторення картинки */
-  height: 150vh; /* Висота вікна */
-  width: 150vw; /* Ширина вікна */
+  height: 100vh; /* Висота вікна */
+  width: 100vw; /* Ширина вікна */
 }
 
 h1 {
